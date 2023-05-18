@@ -12,5 +12,7 @@ We used Pyqt5 to design the UI part and then wrote their respective backend part
 Demo of the application:
 
 
-https://github.com/rahulrouniyar/biometricVotingSystem/assets/70808666/e96cc030-b721-4a02-8b68-76a5f574e8fc
+
+https://github.com/rahulrouniyar/biometricVotingSystem/assets/70808666/b66d3565-74e8-4570-a64b-4f2bc5dc9baa
+
 

@@ -1,0 +1,19 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>icons/voting.png</file>
+        <file>icons/voter_registration.png</file>
+        <file>icons/modification1.png</file>
+        <file>icons/modification2.png</file>
+        <file>icons/backButton.png</file>
+        <file>icons/voter_list.jpg</file>
+        <file>icons/logout.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/admin.png</file>
+        <file>icons/staff.png</file>
+        <file>icons/candidate.png</file>
+        <file>icons/political_party.png</file>
+        <file>icons/bvms.png</file>
+    </qresource>
+</RCC>
